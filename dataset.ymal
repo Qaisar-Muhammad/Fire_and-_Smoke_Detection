@@ -1,0 +1,12 @@
+# dataset.yaml
+train: ./images/train        # path to training images
+val:   ./images/val          # path to validation images
+test:  ./images/test         # path to test images
+
+# number of classes
+nc: 2
+
+# class names
+names:
+  1: smook
+  0: fire
